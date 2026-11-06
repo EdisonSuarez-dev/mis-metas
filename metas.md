@@ -15,3 +15,5 @@
 ## Finanzas
 
 - Ahorrar una parte de lo que gano cada mes. **Fecha límite:** fin del trimestre.
+
+> "Un commit a la vez se construye un gran proyecto."
