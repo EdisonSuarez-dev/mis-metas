@@ -2,12 +2,12 @@
 
 ## Aprendizaje
 
-- Terminar el curso de Git y GitHub con todos los retos entregados.
+- Terminar el curso de Git y GitHub con todos los retos entregados. **Fecha límite:** semana 8.
 
 ## Personal
 
-- Leer un libro al mes.
+- Leer un libro al mes. **Fecha límite:** último día de cada mes.
 
 ## Salud
 
-- Caminar 30 minutos tres veces por semana.
+- Caminar 30 minutos tres veces por semana. **Fecha límite:** todo el trimestre.
