@@ -11,3 +11,7 @@
 ## Salud
 
 - Caminar 30 minutos tres veces por semana. **Fecha límite:** todo el trimestre.
+
+## Finanzas
+
+- Ahorrar una parte de lo que gano cada mes. **Fecha límite:** fin del trimestre.
