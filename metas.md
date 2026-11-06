@@ -7,7 +7,7 @@
 
 ## Personal
 
-- Leer un libro al mes. **Fecha límite:** último día de cada mes.
+- Leer un libro al mes. **Fecha límite:** último día de cada mes. *(En progreso: voy en el primer libro)*
 
 ## Salud
 
