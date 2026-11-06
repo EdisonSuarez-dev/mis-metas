@@ -3,6 +3,7 @@
 ## Aprendizaje
 
 - Terminar el curso de Git y GitHub con todos los retos entregados. **Fecha límite:** semana 8.
+- Practicar inglés 20 minutos al día. **Fecha límite:** todo el trimestre.
 
 ## Personal
 
