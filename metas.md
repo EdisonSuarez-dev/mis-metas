@@ -7,3 +7,7 @@
 ## Personal
 
 - Leer un libro al mes.
+
+## Salud
+
+- Caminar 30 minutos tres veces por semana.
